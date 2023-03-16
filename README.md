@@ -230,7 +230,7 @@ If you like this project...
 
 I would like to thank...
 
-- Original Tutorial by: [Typefast](https://www.youtube.com/watch?v=XxuPlSW4t6M&list=PLCawOXF4xaJLb9HwPWiizGBNupJszY6bR)
+- Original Tutorial by: [Javascript data structures and algorithms- Udemy master class](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
